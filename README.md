@@ -8,7 +8,7 @@ Assignment for HHA 504
 ![Google Cloud Explored](GoogleCloudExplored.png)
 
 
-## Microsoft Azure 
+# Microsoft Azure 
 
 ## Cost Management
 
@@ -37,3 +37,8 @@ Assignment for HHA 504
 ![Azure Billing Benefits](MicrosoftAzureBilling/AzureBillingBenefits.png)
 
 
+# Microsoft Azure 
+
+## Billing
+
+![Azure Invoice](MicrosoftAzureBilling/AzureBillingInvoices.png)
