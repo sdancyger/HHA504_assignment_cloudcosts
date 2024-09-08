@@ -13,10 +13,11 @@ Assignment for HHA 504
 ## Cost Management
 
 ### Overview
+
 ![Azure Billing Summary](MicrosoftAzureBilling/AzureBillingSummary.png)
 
 ### Billing Scopes
-![Azure Billing Scopes](AzureBillingScopes.png)
+![Azure Billing Scopes](Azurebillingscopes.png)
 
 ## Cost Analysis
 ![Azure Cost Analysis](MicrosoftAzureCostMgmt/AzureCostMgmtCostAnalysis.png)
