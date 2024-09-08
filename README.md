@@ -5,7 +5,7 @@ Assignment for HHA 504
 ![Azure Explored](AzureExplored.png)
 
 ## Google Cloud Explored
-! [Google Cloud Explored](GoogleCloudExplored.png)
+![Google Cloud Explored](GoogleCloudExplored.png)
 
 ## Azure Billing Benefits
 ![Azure Billing Benefits](MicrosoftAzureBilling/AzureBillingBenefits.png)
