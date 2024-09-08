@@ -63,23 +63,23 @@ Assignment for HHA 504
 ## Cost Management and Billing Features
 
 ## *Overview*
-![Overview](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudOverview.png>)
+![Overview](<GoogleCloud Cost Mgmt Billing Dashboard/CloudOverview.png>)
 
 ## *Reports*
-![Reports](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtReports.png>)
+![Reports](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtReports.png>)
 
 ## *Cost Table*
-![Cost Table](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtCostTable.png>)
+![Cost Table](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtCostTable.png>)
 
 ## *Cost Breakdown*
-![Cost Breakdown](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtCostBreakdown.png>)
+![Cost Breakdown](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtCostBreakdown.png>)
 
 ## *Budgets and Alerts*
-![BudgetsAlerts](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtBudgetsAlerts.png>)
+![BudgetsAlerts](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtBudgetsAlerts.png>)
 
 ## *Budget of $8.00*
-![Budget of eight](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtBudget8.png>)
+![Budget of eight](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtBudget8.png>)
 
 ## *Billing Support*
-![Billing Support](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtBillingSupport.png>)
+![Billing Support](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtBillingSupport.png>)
 
