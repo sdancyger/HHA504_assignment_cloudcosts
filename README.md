@@ -7,7 +7,7 @@
 
 # EXPLORATION OF FEATURES
 
-## Azure Explored
+## Microsoft Azure Explored
 ![Azure Explored](AzureExplored.png)
 
 ## Google Cloud Explored
