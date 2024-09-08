@@ -7,5 +7,17 @@ Assignment for HHA 504
 ## Google Cloud Explored
 ![Google Cloud Explored](GoogleCloudExplored.png)
 
+
+## Microsoft Azure 
+## Cost Management
+
+### Overview
+![Azure Billing Summary](AzureBillingSummary.png)
+
+### Billing Scopes
+![Azure Billing Scopes](AzureBillingScopes.png)
+
 ## Azure Billing Benefits
 ![Azure Billing Benefits](MicrosoftAzureBilling/AzureBillingBenefits.png)
+
+
