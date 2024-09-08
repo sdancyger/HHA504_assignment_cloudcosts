@@ -12,28 +12,25 @@ Assignment for HHA 504
 
 ## Cost Management
 
-### Overview
-
+## *Overview*
 ![Azure Billing Scopes](MicrosoftAzureCostMgmt/AzureBillingScopes.png)
 
-## Billing Scopes
+## *Billing Scopes*
 ![Azure Billing Summary](MicrosoftAzureCostMgmt/AzureBillingSummary.png)
 
-
-## Cost Analysis
+## *Cost Analysis*
 ![Azure Cost Analysis](MicrosoftAzureCostMgmt/AzureCostMgmtCostAnalysis.png)
 
-
-## Cost Alert
+## *Cost Alert*
 ![Azure Cost Alerts](MicrosoftAzureCostMgmt/AzureCostMgmtCostAlerts.png)
 
-## Budgets
+## *Budgets*
 ![Azure Budgets](MicrosoftAzureCostMgmt/AzureCostMgmtBudgets.png)
 
-## Budget of $8.00
+## *Budget of $8.00*
 ![Azure Budget of Eight](MicrosoftAzureCostMgmt/AzureCostMgmtMonthlyBudget8.png)
 
-# Advisor Recommendations
+## *Advisor Recommendations*
 ![Recommendations](MicrosoftAzureCostMgmt/AzureCostMgmtRecommendations.png)
 
 
@@ -84,4 +81,6 @@ Assignment for HHA 504
 ![Billing Support](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtBillingSupport.png>)
 
 # Reflection
-## I found the cost management features of both Azure and Google Cloud to be very clear and understandable. Both platform's layout made it very easy for me to visually locate and understand the purpose of each feature.
+### I found the cost management features of both Azure and Google Cloud to be very clear and understandable. Both platform's layout made it very easy for me to visually locate and understand the purpose of each feature.
+
+I found the cost management features of both Azure and Google Cloud to be very clear and understandable. Both platform's layout made it very easy for me to visually locate and understand the purpose of each feature.
