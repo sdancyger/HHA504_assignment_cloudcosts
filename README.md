@@ -68,18 +68,18 @@ Assignment for HHA 504
 ## *Reports*
 ![Reports](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtReports.png>)
 
-## Cost Table
+## *Cost Table*
 ![Cost Table](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtCostTable.png>)
 
-## Cost Breakdown
+## *Cost Breakdown*
 ![Cost Breakdown](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtCostBreakdown.png>)
 
-## Budgets and Alerts
+## *Budgets and Alerts*
 ![BudgetsAlerts](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtBudgetsAlerts.png>)
 
-## Budget of $8.00
+## *Budget of $8.00*
 ![Budget of eight](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtBudget8.png>)
 
-## Billing Support
+## *Billing Support*
 ![Billing Support](<GoogleCloud Cost Mgmt:Billing Dashboard/CloudCostMgmtBillingSupport.png>)
 
