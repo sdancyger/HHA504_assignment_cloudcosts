@@ -41,4 +41,23 @@ Assignment for HHA 504
 
 ## Billing
 
+## Invoices
 ![Azure Invoice](MicrosoftAzureBilling/AzureBillingInvoices.png)
+
+## Payment Methods
+![Payment Methods](MicrosoftAzureBilling/AzureBillingPaymentMethods.png)
+
+## Payment History
+![Payment History](MicrosoftAzureBilling/AzureBillingPaymentHistory.png)
+
+## Reservation Transactions
+![Reservation Transactions](MicrosoftAzureBilling/AzureBillingReservationTransactions.png)
+
+## Billing Profiles
+![Billing Profiles](MicrosoftAzureBilling/AzureBillingProfies.png)
+
+## Billing Benefits
+![Billing Benefits](MicrosoftAzureBilling/AzureBillingBenefits.png)
+
+# Google Cloud
+## Cost Management and Billing Features
