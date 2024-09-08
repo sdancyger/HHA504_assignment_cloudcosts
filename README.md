@@ -9,6 +9,7 @@ Assignment for HHA 504
 
 
 ## Microsoft Azure 
+
 ## Cost Management
 
 ### Overview
@@ -16,6 +17,19 @@ Assignment for HHA 504
 
 ### Billing Scopes
 ![Azure Billing Scopes](AzureBillingScopes.png)
+
+## Cost Analysis
+![Azure Cost Analysis](MicrosoftAzureCostMgmt/AzureCostMgmtCostAnalysis.png)
+
+
+## Cost Alert
+![Azure Cost Alerts](MicrosoftAzureCostMgmt/AzureCostMgmtCostAlerts.png)
+
+## Budgets
+![Azure Budgets](MicrosoftAzureCostMgmt/AzureCostMgmtBudgets.png)
+
+## Budget of $8.00
+![Azure Budget of Eight](MicrosoftAzureCostMgmt/AzureCostMgmtMonthlyBudget8.png)
 
 ## Azure Billing Benefits
 ![Azure Billing Benefits](MicrosoftAzureBilling/AzureBillingBenefits.png)
