@@ -16,7 +16,7 @@ Assignment for HHA 504
 
 ![Azure Billing Scopes](MicrosoftAzureCostMgmt/AzureBillingScopes.png)
 
-### Billing Scopes
+## Billing Scopes
 ![Azure Billing Summary](MicrosoftAzureCostMgmt/AzureBillingSummary.png)
 
 
@@ -33,8 +33,8 @@ Assignment for HHA 504
 ## Budget of $8.00
 ![Azure Budget of Eight](MicrosoftAzureCostMgmt/AzureCostMgmtMonthlyBudget8.png)
 
-## Azure Billing Benefits
-![Azure Billing Benefits](MicrosoftAzureBilling/AzureBillingBenefits.png)
+# Advisor Recommendations
+![Recommendations](MicrosoftAzureCostMgmt/AzureCostMgmtRecommendations.png)
 
 
 # MICROSOFT AZURE 
@@ -83,3 +83,5 @@ Assignment for HHA 504
 ## *Billing Support*
 ![Billing Support](<GoogleCloud Cost Mgmt Billing Dashboard/CloudCostMgmtBillingSupport.png>)
 
+# Reflection
+## I found the cost management features of both Azure and Google Cloud to be very clear and understandable. Both platform's layout made it very easy for me to visually locate and understand the purpose of each feature.
